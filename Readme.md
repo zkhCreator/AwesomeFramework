@@ -128,7 +128,7 @@
 - [slather](https://github.com/SlatherOrg/slather):代码覆盖率检查工具
 - [xcpretty](https://github.com/supermarin/xcpretty):自动化测试
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack):Log 日志
-- 
+- [KIF](https://github.com/kif-framework/KIF): UI 测试
 
 ### hack 相关
 - [Cycscript](http://www.cycript.org/manual/#c74467d1-54d1-4d40-9c80-663c538e7896):用于加入App当中进行 runtime 调试。(源码存放于当前工程下)
