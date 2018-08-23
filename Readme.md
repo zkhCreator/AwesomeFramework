@@ -144,6 +144,9 @@
 
 ## Python
 
+### 通用
+- [setup.py](https://github.com/kennethreitz/setup.py)
+
 ### 爬虫
 - [scrapy](https://github.com/scrapy/scrapy):python 爬虫
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy):又一个爬虫
