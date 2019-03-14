@@ -1,6 +1,36 @@
-# Awesome Framwork
+# Ocean
 
-> 用来整理 star 的 framework，防止后期找不到。
+> 用来整理学习得到的东西
+
+## 文章集合
+
+- [iOS内存管理机制及属性的应用](https://medium.com/@zkh90644/ios%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6%E5%8F%8A%E5%B1%9E%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8-421ae50d5dfb?source=your_stories_page---------------------------)
+- [Socket 开发看这一篇就够了](https://medium.com/@zkh90644/socket-%E5%BC%80%E5%8F%91%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86-cb917aaf376e?source=your_stories_page---------------------------)
+- [iOS多线程编程——浅谈GCD](https://blog.csdn.net/zkh90644/article/details/51934062)
+- [iOS多线程——初步使用GCD中的Context](https://blog.csdn.net/zkh90644/article/details/51945882)
+- [iOS多线程开发——NSThread的简单运用](https://blog.csdn.net/zkh90644/article/details/51989112)
+
+
+## 源码阅读
+
+|  工程  | 笔记 | 代码注释 |
+| :-----------: | :-----------: | :-----------: |
+| PINCache      |   [笔记地址](https://medium.com/@zkh90644/pincache-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB-154fdf18e25f)     | [注释地址](https://github.com/zkhCreator/PINCache) |
+| SnapKit   | [笔记地址](https://medium.com/@zkh90644/snapkit-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB-ffe398cc7fdd)        | [注释地址](https://github.com/zkhCreator/SnapKit) |
+| AFNetworking | ---- | [注释地址](https://github.com/zkhCreator/AFNetworking) |
+| BeeHive | [笔记地址](https://medium.com/@zkh90644/beehive-%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB-b01064c445e7) | ----- |
+
+## 外文翻译
+
+- [Swift 3.0中不安全的世界](https://medium.com/@zkh90644/%E8%AF%91-swift-3-0%E4%B8%AD%E4%B8%8D%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%96%E7%95%8C-b8260a9603bd?source=your_stories_page---------------------------)
+- [10条在开发基于React Native开发中学到的事](https://medium.com/@zkh90644/%E8%AF%91-10%E6%9D%A1%E5%9C%A8%E5%BC%80%E5%8F%91%E5%9F%BA%E4%BA%8Ereact-native%E5%BC%80%E5%8F%91%E4%B8%AD%E5%AD%A6%E5%88%B0%E7%9A%84%E4%BA%8B-f9a136a06b72?source=your_stories_page---------------------------)
+- [iOS中使用autolayout来进行UITableView的布局(1)](https://medium.com/@zkh90644/%E8%AF%91-ios%E4%B8%AD%E4%BD%BF%E7%94%A8autolayout%E6%9D%A5%E8%BF%9B%E8%A1%8Cuitableview%E7%9A%84%E5%B8%83%E5%B1%80-1-19c8020abb07?source=your_stories_page---------------------------)
+- [iOS中使用autolayout来进行UITableView的布局(2)](https://medium.com/@zkh90644/%E8%AF%91-ios%E4%B8%AD%E4%BD%BF%E7%94%A8autolayout%E6%9D%A5%E8%BF%9B%E8%A1%8Cuitableview%E7%9A%84%E5%B8%83%E5%B1%80-2-6e89b143e5b6?source=your_stories_page---------------------------)
+- [Swift中的Weak，Strong和Unowned](https://medium.com/@zkh90644/%E8%AF%91-swift%E4%B8%AD%E7%9A%84weak-strong%E5%92%8Cunowned-1cb64b01f933?source=your_stories_page---------------------------)
+- [使用CommonCrypto对文字进行AES的加密](https://medium.com/@zkh90644/%E8%AF%91-%E4%BD%BF%E7%94%A8commoncrypto%E5%AF%B9%E6%96%87%E5%AD%97%E8%BF%9B%E8%A1%8Caes%E7%9A%84%E5%8A%A0%E5%AF%86-370da6854989?source=your_stories_page---------------------------)
+- [开发一门视觉语言](https://medium.com/@zkh90644/%E8%AF%91-%E5%BC%80%E5%8F%91%E4%B8%80%E9%97%A8%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80-223bd34a6432?source=your_stories_page---------------------------)
+- [新车主 Uber App 背后的架构](https://medium.com/@zkh90644/%E8%AF%91-%E6%96%B0%E8%BD%A6%E4%B8%BB-uber-app-%E8%83%8C%E5%90%8E%E7%9A%84%E6%9E%B6%E6%9E%84-b8d9fdcd1b64?source=your_stories_page---------------------------)
+
 
 ## 技术收集
 - [blogs](https://github.com/awesome-tips/blogs):质量较为优质的博客
