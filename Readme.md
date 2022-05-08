@@ -187,3 +187,7 @@
 ## 其他
 - [gitignore](https://github.com/github/gitignore): gitignore 汇总
 - [gfwlist](https://github.com/gfwlist/gfwlist): GFW 列表
+
+## 建模
+
+- [基础教程](https://www.crossmind.com/introduction-to-blender/)
